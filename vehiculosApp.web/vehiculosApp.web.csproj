@@ -18,8 +18,4 @@
     <_ContentIncludedByDefault Remove="Components\Pages\Vehiculos.razor" />
   </ItemGroup>
 
-  <ItemGroup>
-    <None Include="Components\Pages\Vehiculos.razor" />
-  </ItemGroup>
-
 </Project>
